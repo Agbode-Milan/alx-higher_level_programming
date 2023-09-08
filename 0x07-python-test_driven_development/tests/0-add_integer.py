@@ -124,3 +124,4 @@ And again with NaN numbers.
     Traceback (most recent call last):
         ValueError: cannot convert float NaN to i
 
+
